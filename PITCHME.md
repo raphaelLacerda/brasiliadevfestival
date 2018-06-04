@@ -6,7 +6,7 @@
 @BrasiliaDevFestival
 
 ---?image=https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/victory.jpg
-@title[V For Victory]
+@title[Como eu gostaria de ser]
 
 ---
 # Como Estamos?
