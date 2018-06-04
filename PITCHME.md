@@ -1,17 +1,4 @@
-Hello!
-
-+++
-
-Hola!
-
----
-
-Goodbye!
-
-+++
-
-Adiós!
-
+Testes em 2018
 ---
 @title[Bold Statements]
 
