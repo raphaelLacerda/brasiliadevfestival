@@ -26,7 +26,8 @@
 ---
 > As long as you are willing to take responsibility for your mistakes and as long as you are learning from your mistakes, you’re not a bad developer
 
----
+---?image=http://d133mo2u8ekg8z.cloudfront.net/wp-content/uploads/2018/01/05jan17herald.jpg
+@title[Just do it]
 # TESTES
 ### just do it!
 
