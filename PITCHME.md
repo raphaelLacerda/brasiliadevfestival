@@ -18,8 +18,8 @@
 ---
 ### [Bad Developers x Good Developers](https://medium.com/@CodementorIO/good-developers-vs-bad-developers-fe9d2d6b582b)
 
----?image=https://cdn-images-1.medium.com/max/1600/0*-lN5g2MppPLyzBkB.jpg
-@title[WTF]
+---?image=https://i.kinja-img.com/gawker-media/image/upload/s--p_hev1cO--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/etoegdvqkgljihv2tbuq.png
+@title[WTF per minutes]
 
 ---
 
