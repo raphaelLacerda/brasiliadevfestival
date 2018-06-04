@@ -1,2 +1,5 @@
-theme : black
+theme : night
 logo : assets/logo.png
+mousewheel : true
+transition : fade
+loop : true

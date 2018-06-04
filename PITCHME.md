@@ -18,15 +18,11 @@
 ---
 ### [Bad Developers x Good Developers](https://medium.com/@CodementorIO/good-developers-vs-bad-developers-fe9d2d6b582b)
 
----?image=https://i.kinja-img.com/gawker-media/image/upload/s--p_hev1cO--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/etoegdvqkgljihv2tbuq.png
-@title[WTF per minutes]
-
----
-
+---?image=https://www.hcn.org/issues/372/17740/080609-034.0.jpg/image
 @title[Cowboy]
 
----?image=https://liberenalgeek.files.wordpress.com/2015/08/tumblr_n5477huowt1trb5guo1_1280.jpg
-@title[Mediocre]
+---?image=https://media.wired.com/photos/5927091dcefba457b079bec4/master/pass/Screen-Shot-2016-04-25-at-12.15.43-PM.png
+@title[Mediocre - future boss]
 
 ---
 > As long as you are willing to take responsibility for your mistakes and as long as you are learning from your mistakes, you’re not a bad developer
@@ -34,3 +30,6 @@
 ---
 # TESTES
 ### just do it!
+
+---?image=https://i.kinja-img.com/gawker-media/image/upload/s--p_hev1cO--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/etoegdvqkgljihv2tbuq.png
+@title[WTF per minutes]
