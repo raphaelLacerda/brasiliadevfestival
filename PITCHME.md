@@ -9,11 +9,10 @@
 @title[Como eu gostaria de ser]
 
 ---
-## realidade
+## [realidade...](https://code.energy/misconceptions-about-programmers/)
 
----
-
- imagem tosca representando a real
+---?video=assets/officespace.mp4
+@title[I hate printers]
 
 ---
 ### [Bad Developers x Good Developers](https://medium.com/@CodementorIO/good-developers-vs-bad-developers-fe9d2d6b582b)
