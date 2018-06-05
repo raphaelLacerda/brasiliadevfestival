@@ -99,13 +99,13 @@ stackoverflow
 </span>
 
 <div style="position: fixed; top: 180px; left: -300px;">
-1M r/s
+<p>1M r/s</p>
 
-100M h/streaming
+<p>100M h/streaming</p>
 
-10M dispositivos
+<p>10M dispositivos</p>
 
-160B eventos por dia
+<p>160B eventos por dia</p>
 </div>
 
 
