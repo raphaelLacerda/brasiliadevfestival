@@ -3,5 +3,5 @@ logo : http://res.cloudinary.com/lacerdaph/image/upload/v1528204049/logo.png
 mousewheel : true
 transition : zoom
 loop : true
-footnote: "<img style='max-height: 7.5em; position: fixed; bottom: 0px; text-align: center; z-index: 1' src='http://www.pngmart.com/files/4/Microsoft-Logo-PNG-Photos.png'/> <img style='max-height: 7.5em; position: fixed; bottom: 0px; text-align: center; z-index: 1' src='https://www.caelum.com.br/imagens/caelum-logo.svg'/>"
+footnote: "<img style='max-height: 7.5em; position: fixed; bottom: 0px; z-index: 1' src='https://www.caelum.com.br/imagens/caelum-logo.svg'/> <img style='max-height: 7.5em; position: fixed; bottom: 0px; z-index: 1' src='http://www.pngmart.com/files/4/Microsoft-Logo-PNG-Photos.png'/>"
 
