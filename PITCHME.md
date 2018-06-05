@@ -99,8 +99,10 @@ stackoverflow
 </span>
 
 <span style="position: fixed; top: 180px; left: -300px;">
-* 1M r/s
-* 100M h/streaming
+1M r/s
+100M h/streaming
+10M dispositivos
+160B eventos por dia
 </span>
 
 
