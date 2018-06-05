@@ -98,7 +98,7 @@ stackoverflow
 	 de tudo
 </span>
 
-<span style="position: fixed; top: 100px; left: 2800px;">
+<span style="position: fixed; top: 100px; left: 900px;">
 	<span style="color:red; ">
 		Tecnologias
 	</span>
