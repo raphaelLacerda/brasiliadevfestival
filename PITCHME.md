@@ -1,6 +1,6 @@
 # Testes em 2018
 
-### Raphael lacerda
+### @lacerdaph
 ### Tiago Lage
 
 @BrasiliaDevFestival
@@ -69,6 +69,14 @@ TDD is old news (90, 96, 2003, 2009)
 
 ---
 
+Aniche's time
+
+---
+
+stackoverflow
+
+---
+
 > "...Quebre sua aplicação ou alguém quebrará por você..."
 
 [@herval](https://qconsp.com/sp2018/presentation/stress-testing-como-servico) no QconSP 2018
@@ -80,8 +88,9 @@ TDD is old news (90, 96, 2003, 2009)
 ## Monitoração
 ![Image-Absolute](http://res.cloudinary.com/lacerdaph/image/upload/v1528204049/monitoracao.png)
 
---- 
-Aniche's time
+---?image=https://www.emaisgoias.com.br/wp-content/uploads/2018/05/naar-1024x1024.jpg
+@title[Netflix]
+Monitoração
 
 ---
 Como testar isso?
