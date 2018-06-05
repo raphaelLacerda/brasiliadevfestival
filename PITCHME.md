@@ -8,8 +8,8 @@
 ---
 
 @title[Sponsors]
-![Image-Relative](http://res.cloudinary.com/lacerdaph/image/upload/v1528206935/caelum-logo.svg)
-![Image-Relative](https://tecnologiafacilsa.com.br/wp-content/uploads/2017/09/PNGPIX-COM-Microsoft-Logo-PNG-Transparent-1.png)
+![Image-Relative](http://queroworkar.com.br/blog/wp-content/uploads/2013/08/alura-caelum.jpg)
+![Image-Relative](http://www.osundefender.com/wp-content/uploads/2017/03/Microsoft-PESTEL-Analysis.jpg)
 
 ---
 @title[Who are we?]
