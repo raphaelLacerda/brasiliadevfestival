@@ -96,10 +96,16 @@ stackoverflow
 		Monitoração
 	</span>
 	 de tudo
+</span>
+
+<span style="position: fixed; top: 150px; left: -300px;">
 	 1M r/s
+
 	 100M h/streaming
+	 
 	 10M dispositivos
 </span>
+
 
 <span style="position: fixed; top: 100px; left: 900px;">
 	<span style="color:red; ">
