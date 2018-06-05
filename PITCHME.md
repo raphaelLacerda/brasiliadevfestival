@@ -6,13 +6,13 @@
 @BrasiliaDevFestival
 
 ---
-
+## Caelum & GitHub
 @title[Sponsors]
 <img style="max-width: 10em; max-height: 8em;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCeaNeLAALdFIUDLmwTJB-0nGiNJaBQmcaZrii63JbVpWQgIL1"/>
 <img style="max-width: 10em; max-height: 8em;" src="http://res.cloudinary.com/lacerdaph/image/upload/v1528212612/microsoft-80658_960_720.png"/>
 ---
 @title[Who are we?]
-Quem somos nós?
+whoami?
 
 ---?image=https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/victory.jpg
 @title[Como eu gostaria de ser]
@@ -24,13 +24,15 @@ Quem somos nós?
 @title[OfficeSpace printer]
 
 ---
-### [Bad Developers x Good Developers](https://medium.com/@CodementorIO/good-developers-vs-bad-developers-fe9d2d6b582b)
+[Bad Developers x Good Developers](https://medium.com/@CodementorIO/good-developers-vs-bad-developers-fe9d2d6b582b)
 
 ---?image=https://www.hcn.org/issues/372/17740/080609-034.0.jpg/image
 @title[Cowboy]
+Conheço alguns...
 
 ---?image=https://media.wired.com/photos/5927091dcefba457b079bec4/master/pass/Screen-Shot-2016-04-25-at-12.15.43-PM.png
 @title[Mediocre - future boss]
+Conheço vários...
 
 ---
 > "...As long as you are willing to take responsibility for your mistakes and as long as you are learning from your mistakes, you’re not a bad developer..."
@@ -42,6 +44,11 @@ Quem somos nós?
 
 ---?image=https://i.kinja-img.com/gawker-media/image/upload/s--p_hev1cO--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/etoegdvqkgljihv2tbuq.png
 @title[WTF per minutes]
+
+
+---?image=http://res.cloudinary.com/lacerdaph/image/upload/v1528213208/1.png
+TDD is old news (90, 96, 2003, 2009)
+
 
 ---
 
@@ -55,9 +62,6 @@ Quem somos nós?
 ---
 ## Monitoração
 ![Image-Absolute](http://res.cloudinary.com/lacerdaph/image/upload/v1528204049/monitoracao.png)
-
----
-TDD is old news
 
 --- 
 Aniche's time
