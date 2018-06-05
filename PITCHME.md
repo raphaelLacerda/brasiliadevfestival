@@ -8,9 +8,8 @@
 ---
 
 @title[Sponsors]
-![Image-Relative](http://queroworkar.com.br/blog/wp-content/uploads/2013/08/alura-caelum.jpg)
-![Image-Relative](http://www.osundefender.com/wp-content/uploads/2017/03/Microsoft-PESTEL-Analysis.jpg)
-
+<img style="max-width: 10em; max-height: 8em;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCeaNeLAALdFIUDLmwTJB-0nGiNJaBQmcaZrii63JbVpWQgIL1"/>
+<img style="max-width: 10em; max-height: 8em;" src="https://cdn.pixabay.com/photo/2013/02/12/09/07/microsoft-80658_960_720.png"/>
 ---
 @title[Who are we?]
 Quem somos nós?
