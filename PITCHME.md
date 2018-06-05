@@ -5,8 +5,8 @@
 
 @BrasiliaDevFestival
 
-![Image-Absolute](http://www.pngmart.com/files/4/Microsoft-Logo-PNG-Photos.png)
-![Image-Absolute](https://www.caelum.com.br/imagens/caelum-logo.svg)
+![Logo](http://www.pngmart.com/files/4/Microsoft-Logo-PNG-Photos.png)
+![Logo](https://www.caelum.com.br/imagens/caelum-logo.svg)
 
 ---?image=https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/victory.jpg
 @title[Como eu gostaria de ser]
