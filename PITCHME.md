@@ -9,7 +9,7 @@
 
 @title[Sponsors]
 <img style="max-width: 10em; max-height: 8em;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCeaNeLAALdFIUDLmwTJB-0nGiNJaBQmcaZrii63JbVpWQgIL1"/>
-<img style="max-width: 10em; max-height: 8em;" src="https://cdn.pixabay.com/photo/2013/02/12/09/07/microsoft-80658_960_720.png"/>
+<img style="max-width: 10em; max-height: 8em;" src="http://res.cloudinary.com/lacerdaph/image/upload/v1528212612/microsoft-80658_960_720.png"/>
 ---
 @title[Who are we?]
 Quem somos nós?
