@@ -6,6 +6,7 @@
 @BrasiliaDevFestival
 
 ---
+
 @title[Sponsors]
 ![Image-Relative](http://res.cloudinary.com/lacerdaph/image/upload/v1528206935/caelum-logo.svg)
 ![Image-Relative](https://tecnologiafacilsa.com.br/wp-content/uploads/2017/09/PNGPIX-COM-Microsoft-Logo-PNG-Transparent-1.png)
