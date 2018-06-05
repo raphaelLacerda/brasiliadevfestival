@@ -16,12 +16,18 @@
 
 ---
 
-teste
+![Video](https://r5---sn-bg07dnlz.googlevideo.com/videoplayback?itag=18&dur=97.291&id=o-ADzP0azy16BOm2itI27qCtGg5AKCACUmEAyMkpqsAicK&sparams=clen,dur,ei,expire,gir,id,initcwndbps,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,pcm2cms,pl,ratebypass,requiressl,source&pl=48&ip=2600%3A3c02%3A%3Af03c%3A91ff%3Afe40%3A40&lmt=1433845245157798&ratebypass=yes&expire=1528182176&fvip=5&mime=video%2Fmp4&gir=yes&requiressl=yes&source=youtube&clen=7509792&ipbits=0&signature=03F37117BDF63E4E79D975DBEA9CB68F4161683A.331D7F203431E83AB268BCE60A891EAF1115BF94&ei=QOEVW6-EKcbZkAPlzTc&key=cms1&c=WEB&title=Office+Space+-+Printer+Scene+(UNCENSORED)&rm=sn-5uary76&req_id=c40dd4dc0afaa3ee&ipbypass=yes&mip=2804:14c:6590:8e13:84ad:50b8:a43e:dcf&redirect_counter=2&cm2rm=sn-oxunxg8pjvn-cncl76&cms_redirect=yes&mm=29&mn=sn-bg07dnlz&ms=rdu&mt=1528160484&mv=m)
 
+
+---
+
+![Cartoon](https://r5---sn-bg07dnlz.googlevideo.com/videoplayback?itag=18&dur=97.291&id=o-ADzP0azy16BOm2itI27qCtGg5AKCACUmEAyMkpqsAicK&sparams=clen,dur,ei,expire,gir,id,initcwndbps,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,pcm2cms,pl,ratebypass,requiressl,source&pl=48&ip=2600%3A3c02%3A%3Af03c%3A91ff%3Afe40%3A40&lmt=1433845245157798&ratebypass=yes&expire=1528182176&fvip=5&mime=video%2Fmp4&gir=yes&requiressl=yes&source=youtube&clen=7509792&ipbits=0&signature=03F37117BDF63E4E79D975DBEA9CB68F4161683A.331D7F203431E83AB268BCE60A891EAF1115BF94&ei=QOEVW6-EKcbZkAPlzTc&key=cms1&c=WEB&title=Office+Space+-+Printer+Scene+(UNCENSORED)&rm=sn-5uary76&req_id=c40dd4dc0afaa3ee&ipbypass=yes&mip=2804:14c:6590:8e13:84ad:50b8:a43e:dcf&redirect_counter=2&cm2rm=sn-oxunxg8pjvn-cncl76&cms_redirect=yes&mm=29&mn=sn-bg07dnlz&ms=rdu&mt=1528160484&mv=m)
 ---
 @title[Big Buck Bunny]
 
 ![MP4 Video](assets/officespace.mp4)
+![Video](assets/officespace.mp4)
+![Video](assets/officespace-2.mp4)
 
 ---
 ### [Bad Developers x Good Developers](https://medium.com/@CodementorIO/good-developers-vs-bad-developers-fe9d2d6b582b)
@@ -42,3 +48,18 @@ teste
 
 ---?image=https://i.kinja-img.com/gawker-media/image/upload/s--p_hev1cO--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/etoegdvqkgljihv2tbuq.png
 @title[WTF per minutes]
+
+
+---
+
+> Quebre sua aplicação ou alguém durante a aplicação
+
+[@herval](https://qconsp.com/sp2018/presentation/stress-testing-como-servico) no QconSP 2018
+
+* Usuários de testes
+* métricas
+
+---
+## Monitoração
+![Image-Absolute](assets/monitoracao.png)
+
