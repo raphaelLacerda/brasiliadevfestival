@@ -96,6 +96,7 @@ stackoverflow
 		Monitoração
 	</span>
 	 de tudo
+	 
 	- 1 milhão de requests por segundo
 	- 100 milhões de horas de streaming
 	- 10 milhões de dispositivos
