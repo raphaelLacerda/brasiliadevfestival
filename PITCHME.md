@@ -12,9 +12,6 @@
 @title[Como eu gostaria de ser]
 
 ---
-
-
----
 ## [realidade...](https://code.energy/misconceptions-about-programmers/)
 
 ---?video=http://res.cloudinary.com/lacerdaph/video/upload/v1528204044/officespace.mp4
