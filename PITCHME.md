@@ -98,7 +98,7 @@ stackoverflow
 	 de tudo
 </span>
 
-<span style="position: fixed; top: 150px; left: -300px;">
+<span style="position: fixed; top: 180px; left: -300px;">
 * 1M r/s
 * 100M h/streaming
 </span>
