@@ -9,6 +9,10 @@
 @title[Como eu gostaria de ser]
 
 ---
+
+![Image-Absolute](https://www.caelum.com.br/apostila-ruby-on-rails/anuncios/caelum_2x.png)
+
+---
 ## [realidade...](https://code.energy/misconceptions-about-programmers/)
 
 ---?video=http://res.cloudinary.com/lacerdaph/video/upload/v1528204044/officespace.mp4
