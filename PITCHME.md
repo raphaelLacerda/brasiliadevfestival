@@ -97,11 +97,11 @@ stackoverflow
 	</span>
 	 de tudo
 
-	* 1 milhão de requests por segundo
-	* 100 milhões de horas de streaming
-	* 10 milhões de dispositivos
-	* 10 mil instâncias
-	* 10 TB/s – 1/3 da banda dos EUA
+	1 milhão de requests por segundo
+	100 milhões de horas de streaming
+	10 milhões de dispositivos
+	10 mil instâncias
+	10 TB/s – 1/3 da banda dos EUA
 </span>
 
 <span style="position: fixed; top: 100px; left: 900px;">
