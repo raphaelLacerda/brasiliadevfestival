@@ -98,7 +98,7 @@ stackoverflow
 	 de tudo
 </span>
 
-<span style="position: fixed; top: 180px; left: -300px;">
+<div style="position: fixed; top: 180px; left: -300px;">
 1M r/s
 
 100M h/streaming
@@ -106,7 +106,7 @@ stackoverflow
 10M dispositivos
 
 160B eventos por dia
-</span>
+</div>
 
 
 <span style="position: fixed; top: 100px; left: 900px;">
