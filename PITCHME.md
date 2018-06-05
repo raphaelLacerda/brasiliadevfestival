@@ -7,6 +7,7 @@
 
 ---
  Caelum & GitHub
+
 @title[Sponsors]
 <img style="max-width: 10em; max-height: 8em;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCeaNeLAALdFIUDLmwTJB-0nGiNJaBQmcaZrii63JbVpWQgIL1"/>
 <img style="max-width: 10em; max-height: 8em;" src="http://res.cloudinary.com/lacerdaph/image/upload/v1528212612/microsoft-80658_960_720.png"/>
@@ -24,7 +25,7 @@ whoami?
 @title[OfficeSpace printer]
 
 ---
-[Bad Developers x Good Developers](https://medium.com/@CodementorIO/good-developers-vs-bad-developers-fe9d2d6b582b)
+### [Bad Developers x Good Developers](https://medium.com/@CodementorIO/good-developers-vs-bad-developers-fe9d2d6b582b)
 
 ---?image=https://www.hcn.org/issues/372/17740/080609-034.0.jpg/image
 @title[Cowboy]
@@ -67,13 +68,15 @@ Aniche's time
 
 ---
 Como testar isso?
-![Image-Absolute](http://res.cloudinary.com/lacerdaph/image/upload/v1528213717/js-callbacks.gif)
+
+![Image](http://res.cloudinary.com/lacerdaph/image/upload/v1528213717/js-callbacks.gif)
 
 ---
 
 > "...JS tá tão zueira que agora os posts vem todos com o ano, tipo: O Ecossistema de Testes em JavaScript em 2017; How to learn React, Angular or Vue in 2018;An Overview of JavaScript Testing in 2018..." @alex_aquiles
 
----?image=http://res.cloudinary.com/lacerdaph/image/upload/v1528213902/frameworks.png
+---
+![Image](http://res.cloudinary.com/lacerdaph/image/upload/v1528213902/frameworks.png)
 Muitas...
 
 ---
