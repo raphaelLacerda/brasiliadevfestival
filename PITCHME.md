@@ -11,8 +11,9 @@
 ---
 ## [realidade...](https://code.energy/misconceptions-about-programmers/)
 
----?video=assets/officespace.mp4
-@title[I hate printers]
+---
+
+![YouTube Video](https://www.youtube.com/embed/N9wsjroVlu8)
 
 ---
 
