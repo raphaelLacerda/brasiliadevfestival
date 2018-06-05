@@ -10,7 +10,7 @@
 
 ---
 
-![Image-Absolute](https://www.caelum.com.br/apostila-ruby-on-rails/anuncios/caelum_2x.png)
+![Image-Absolute](https://www.caelum.com.br/imagens/caelum-logo.svg)
 
 ---
 ## [realidade...](https://code.energy/misconceptions-about-programmers/)
