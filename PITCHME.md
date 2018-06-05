@@ -5,8 +5,7 @@
 
 @BrasiliaDevFestival
 
-![Logo](http://www.pngmart.com/files/4/Microsoft-Logo-PNG-Photos.png&position=left&size=60% 100%)
-![Logo](http://res.cloudinary.com/lacerdaph/image/upload/v1528206935/caelum-logo.svg&position=right&size=60% 100%)
+![Image-Relative](http://res.cloudinary.com/lacerdaph/image/upload/v1528206935/caelum-logo.svg)
 
 ---
 
