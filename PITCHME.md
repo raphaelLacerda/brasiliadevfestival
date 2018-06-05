@@ -91,12 +91,12 @@ stackoverflow
 ---?image=https://www.emaisgoias.com.br/wp-content/uploads/2018/05/naar-1024x1024.jpg
 @title[Netflix]
 
-<span style="position: fixed; top: 100px; left: -300px;">
+<div style="position: fixed; top: 100px; left: -300px;">
 	<span style="color:red; ">
 		Monitoração
 	</span>
 	 de tudo
-</span>
+</div>
 
 <div style="position: fixed; top: 180px; left: -300px;">
 <p>1M r/s</p>
@@ -109,12 +109,12 @@ stackoverflow
 </div>
 
 
-<span style="position: fixed; top: 100px; left: 900px;">
-	<span style="color:red; ">
-		Tecnologias
-	</span>
-	 free
+<div style="position: fixed; top: 100px; left: 900px;">
+Tecnologias
+<span style="color:red; ">
+	free
 </span>
+</div>
 
 
 ---
