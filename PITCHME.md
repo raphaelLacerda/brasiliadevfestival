@@ -6,7 +6,7 @@
 @BrasiliaDevFestival
 
 ---
-## Caelum & GitHub
+ Caelum & GitHub
 @title[Sponsors]
 <img style="max-width: 10em; max-height: 8em;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCeaNeLAALdFIUDLmwTJB-0nGiNJaBQmcaZrii63JbVpWQgIL1"/>
 <img style="max-width: 10em; max-height: 8em;" src="http://res.cloudinary.com/lacerdaph/image/upload/v1528212612/microsoft-80658_960_720.png"/>
@@ -47,8 +47,7 @@ Conheço vários...
 
 
 ---?image=http://res.cloudinary.com/lacerdaph/image/upload/v1528213208/1.png
-TDD is old news (90, 96, 2003, 2009)
-
+<span style="color:black">TDD is old news (90, 96, 2003, 2009)</span>
 
 ---
 
