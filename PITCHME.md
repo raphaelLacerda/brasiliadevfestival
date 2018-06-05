@@ -105,7 +105,7 @@ stackoverflow
 
 <p>10M dispositivos</p>
 
-<p>160B eventos por dia</p>
+<p><span style="color:red; ">160B eventos</span> por dia</p>
 </div>
 
 
@@ -116,6 +116,17 @@ Tecnologias
 </span>
 </div>
 
+<div style="position: fixed; top: 180px; left: 900px;">
+<p>CAOS Monkey</p>
+
+<p>Kayenta</p>
+
+<p>Atlas</p>
+
+<p>FlameScope</p>
+
+<p><span style="color:red; ">real time</span> Vector</p>
+</div>
 
 ---
 Como testar isso?
