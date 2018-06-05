@@ -90,7 +90,10 @@ stackoverflow
 
 ---?image=https://www.emaisgoias.com.br/wp-content/uploads/2018/05/naar-1024x1024.jpg
 @title[Netflix]
-Monitoração
+
+<span style="text-color: red; text-align: left">Monitoração</span> de tudo
+
+<span style="text-color: red; text-align: right">Tecnologias</span> free
 
 ---
 Como testar isso?
