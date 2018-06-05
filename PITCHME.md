@@ -15,14 +15,28 @@
 @title[Who are we?]
 whoami?
 
+<aside class="notes">
+	cada um se apresenta
+</aside>
+
 ---?image=https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/victory.jpg
 @title[Como eu gostaria de ser]
+
+<aside class="notes">
+	falar que cada um se acha o melhor dev
+    mas sua mae nao ve isso
+    sua mulher nao ve isso
+</aside>
 
 ---
 ## [realidade...](https://code.energy/misconceptions-about-programmers/)
 
 ---?video=http://res.cloudinary.com/lacerdaph/video/upload/v1528204044/officespace.mp4
 @title[OfficeSpace printer]
+
+<aside class="notes">
+	NAO CONSERTAMOS IMPRESSORAS
+</aside>
 
 ---
 ### [Bad Developers x Good Developers](https://medium.com/@CodementorIO/good-developers-vs-bad-developers-fe9d2d6b582b)
@@ -31,6 +45,9 @@ whoami?
 @title[Cowboy]
 Conheço alguns...
 
+<aside class="notes">
+	O cara que senta e coda
+</aside>
 ---?image=https://media.wired.com/photos/5927091dcefba457b079bec4/master/pass/Screen-Shot-2016-04-25-at-12.15.43-PM.png
 @title[Mediocre - future boss]
 Conheço vários...
@@ -76,8 +93,10 @@ Como testar isso?
 > "...JS tá tão zueira que agora os posts vem todos com o ano, tipo: O Ecossistema de Testes em JavaScript em 2017; How to learn React, Angular or Vue in 2018;An Overview of JavaScript Testing in 2018..." @alex_aquiles
 
 ---
+### Muitos...
+
 ![Image](http://res.cloudinary.com/lacerdaph/image/upload/v1528213902/frameworks.png)
-Muitas...
+
 
 ---
 
