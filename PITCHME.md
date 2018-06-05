@@ -10,7 +10,7 @@
 
 ---
 
-![Image-Absolute](https://www.caelum.com.br/imagens/caelum-logo.svg)
+![Image-Absolute](https://i.pinimg.com/originals/ce/af/83/ceaf8384322af790486cff176a0a2f24.png)
 
 ---
 ## [realidade...](https://code.energy/misconceptions-about-programmers/)
@@ -51,3 +51,20 @@
 ## Monitoração
 ![Image-Absolute](http://res.cloudinary.com/lacerdaph/image/upload/v1528204049/monitoracao.png)
 
+---
+TDD is old news
+
+--- 
+Aniche's time
+
+---
+
+mundo de ferramentas
+
+---
+
+testes básicos
+
+---
+
+vida real com lage
