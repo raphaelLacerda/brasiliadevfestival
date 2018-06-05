@@ -5,7 +5,7 @@
 
 @BrasiliaDevFestival
 
-![Image-Relative](http://res.cloudinary.com/lacerdaph/image/upload/v1528206935/caelum-logo.svg)
+![Image-Relative](https://www.caelum.com.br/imagens/base/caelum-ensino-inovacao-share.jpg)
 
 ---
 
