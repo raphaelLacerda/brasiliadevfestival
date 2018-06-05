@@ -91,14 +91,20 @@ stackoverflow
 ---?image=https://www.emaisgoias.com.br/wp-content/uploads/2018/05/naar-1024x1024.jpg
 @title[Netflix]
 
-<span style="position: fixed; top: 300px; left: -300px;">
+<span style="position: fixed; top: 100px; left: -300px;">
 	<span style="color:red; ">
 		Monitoração
 	</span>
 	 de tudo
 </span>
 
-<span style="color: red; text-align: right">Tecnologias</span> free
+<span style="position: fixed; top: 100px; left: 2800px;">
+	<span style="color:red; ">
+		Tecnologias
+	</span>
+	 free
+</span>
+
 
 ---
 Como testar isso?
