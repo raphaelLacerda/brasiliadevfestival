@@ -96,7 +96,9 @@ stackoverflow
 		Monitoração
 	</span>
 	 de tudo
-	 que for necessário
+	 1M r/s
+	 100M h/streaming
+	 10M dispositivos
 </span>
 
 <span style="position: fixed; top: 100px; left: 900px;">
