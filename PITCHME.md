@@ -10,7 +10,7 @@
 
 ---
 
-![Image-Absolute](https://i.pinimg.com/originals/ce/af/83/ceaf8384322af790486cff176a0a2f24.png)
+![Image-Absolute](http://www.pngmart.com/files/4/Microsoft-Logo-PNG-Photos.png)
 
 ---
 ## [realidade...](https://code.energy/misconceptions-about-programmers/)
