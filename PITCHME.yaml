@@ -1,5 +1,5 @@
 theme : black
-logo : assets/logo.png
+logo : http://res.cloudinary.com/lacerdaph/image/upload/v1528204049/logo.png
 mousewheel : true
 transition : zoom
 loop : true
