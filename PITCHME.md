@@ -100,10 +100,7 @@ stackoverflow
 
 <span style="position: fixed; top: 150px; left: -300px;">
 	 1M r/s
-
 	 100M h/streaming
-	 
-	 10M dispositivos
 </span>
 
 
