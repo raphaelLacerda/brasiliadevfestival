@@ -47,7 +47,7 @@ Conheço vários...
 
 
 ---?image=http://res.cloudinary.com/lacerdaph/image/upload/v1528213208/1.png
-<span style="color:black">TDD is old news (90, 96, 2003, 2009)</span>
+TDD is old news (90, 96, 2003, 2009)
 
 ---
 
@@ -66,8 +66,15 @@ Conheço vários...
 Aniche's time
 
 ---
+Como testar isso?
+![Image-Absolute](http://res.cloudinary.com/lacerdaph/image/upload/v1528213717/js-callbacks.gif)
 
-mundo de ferramentas
+---
+
+> "...JS tá tão zueira que agora os posts vem todos com o ano, tipo: O Ecossistema de Testes em JavaScript em 2017; How to learn React, Angular or Vue in 2018;An Overview of JavaScript Testing in 2018..." @alex_aquiles
+
+---?image=http://res.cloudinary.com/lacerdaph/image/upload/v1528213902/frameworks.png
+Muitas...
 
 ---
 
