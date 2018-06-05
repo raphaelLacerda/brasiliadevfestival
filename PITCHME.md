@@ -5,8 +5,12 @@
 
 @BrasiliaDevFestival
 
-![Logo](http://www.pngmart.com/files/4/Microsoft-Logo-PNG-Photos.png)
-![Logo](https://www.caelum.com.br/imagens/caelum-logo.svg)
+![Logo](http://www.pngmart.com/files/4/Microsoft-Logo-PNG-Photos.png&position=left&size=60% 100%)
+![Logo](http://res.cloudinary.com/lacerdaph/image/upload/v1528206935/caelum-logo.svg&position=right&size=60% 100%)
+
+---
+
+Quem somos nós?
 
 ---?image=https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/victory.jpg
 @title[Como eu gostaria de ser]
@@ -27,7 +31,7 @@
 @title[Mediocre - future boss]
 
 ---
-> As long as you are willing to take responsibility for your mistakes and as long as you are learning from your mistakes, you’re not a bad developer
+> "...As long as you are willing to take responsibility for your mistakes and as long as you are learning from your mistakes, you’re not a bad developer..."
 
 ---?image=http://d133mo2u8ekg8z.cloudfront.net/wp-content/uploads/2018/01/05jan17herald.jpg
 @title[Just do it]
@@ -39,7 +43,7 @@
 
 ---
 
-> Quebre sua aplicação ou alguém quebrará por você
+> "...Quebre sua aplicação ou alguém quebrará por você..."
 
 [@herval](https://qconsp.com/sp2018/presentation/stress-testing-como-servico) no QconSP 2018
 
