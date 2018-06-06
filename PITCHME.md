@@ -92,7 +92,12 @@ Aniche's time
 
 * Usuários de testes
 * métricas
+* 8 > 16 > 30 tweets/s
 
+<aside class="notes">
+	agradecer João gato
+	piada com o fim do tempo
+</aside>
 ---
 ## Monitoração
 ![Image-Absolute](http://res.cloudinary.com/lacerdaph/image/upload/v1528204049/monitoracao.png)
@@ -140,13 +145,15 @@ Tecnologias
 ---?image=https://i.ytimg.com/vi/sVr7eLnAIqI/maxresdefault.jpg
 
 ---
-Como testar isso?
+Por que testar isso?
 
 ![Image](http://res.cloudinary.com/lacerdaph/image/upload/v1528213717/js-callbacks.gif)
 
 ---
 
-OWSAP
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKjw7mgz5nJM7kvcG_UUYv_HKu6Qo23QWc0YGO3CoiLcXgqa_e)
+
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwchoqjcvty9P_YuYnQxgWdJ1aJp_ce5TeOopVQz6AzdqSJhnI)
 
 ---
 
