@@ -1,9 +1,4 @@
-# Testes em 2018
-
-### @lacerdaph
-### Tiago Lage
-
-@BrasiliaDevFestival
+?image=http://res.cloudinary.com/lacerdaph/image/upload/v1528324656/capaSlideRaphaelTiago.jpg
 
 <aside class="notes">
 	agradecer João gato
@@ -148,6 +143,10 @@ Tecnologias
 Como testar isso?
 
 ![Image](http://res.cloudinary.com/lacerdaph/image/upload/v1528213717/js-callbacks.gif)
+
+---
+
+OWSAP
 
 ---
 

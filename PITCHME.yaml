@@ -3,5 +3,6 @@ logo : http://res.cloudinary.com/lacerdaph/image/upload/v1528204049/logo.png
 mousewheel : false
 transition : zoom
 loop : true
-footnote: "<img style='max-height: 7.5em; position: fixed; bottom: 0px; left: -1000px; z-index: 1' src='http://res.cloudinary.com/lacerdaph/image/upload/v1528206935/caelum-logo.svg'/> <img style='max-height: 7.5em; position: fixed; bottom: 0px; left: 2800px; z-index: 1' src='http://www.pngmart.com/files/4/Microsoft-Logo-PNG-Photos.png'/>"
+# footnote: "<img style='max-height: 7.5em; position: fixed; bottom: 0px; left: -1000px; z-index: 1' src='http://res.cloudinary.com/lacerdaph/image/upload/v1528206935/caelum-logo.svg'/> <img style='max-height: 7.5em; position: fixed; bottom: 0px; left: 2800px; z-index: 1' src='http://www.pngmart.com/files/4/Microsoft-Logo-PNG-Photos.png'/>"
+footnote: "<img src='http://res.cloudinary.com/lacerdaph/image/upload/v1528324653/FaixaLogosHorizontalTransparente.png' />"
 
