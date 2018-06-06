@@ -76,9 +76,7 @@ Conheço vários...
 ---?image=http://res.cloudinary.com/lacerdaph/image/upload/v1528213208/1.png
 TDD is old news (90, 96, 2003, 2009)
 
----
-
-Aniche's time
+---?image=https://image.slidesharecdn.com/metricas-qcon-130829185200-phpapp02/95/voc-tem-um-xerife-olhando-seu-cdigo-2-638.jpg?cb=1377802356
 
 ---
 
