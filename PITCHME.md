@@ -1,4 +1,4 @@
-?image=http://res.cloudinary.com/lacerdaph/image/upload/v1528324656/capaSlideRaphaelTiago.jpg
+---?image=http://res.cloudinary.com/lacerdaph/image/upload/v1528324656/capaSlideRaphaelTiago.jpg
 
 <aside class="notes">
 	agradecer João gato
