@@ -13,6 +13,7 @@
 <img style="max-width: 10em; max-height: 8em;" src="http://res.cloudinary.com/lacerdaph/image/upload/v1528212612/microsoft-80658_960_720.png"/>
 <aside class="notes">
 	piada github
+	posts no blog da caelum
 </aside>
 
 ---
