@@ -4,5 +4,5 @@ logo : http://res.cloudinary.com/lacerdaph/image/upload/v1528204049/logo.png
 mousewheel : false
 transition : zoom
 loop : true
-footnote: "<img src="http://res.cloudinary.com/lacerdaph/image/upload/v1528574168/faixaSlideHorizontalFundoBranco.png"/>"
+footnote: "<img src='http://res.cloudinary.com/lacerdaph/image/upload/v1528574168/faixaSlideHorizontalFundoBranco.png'/>"
 #footnote : "© 2016 One Tap Beyond Inc."
