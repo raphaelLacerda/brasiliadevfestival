@@ -12,7 +12,7 @@
 <img style="max-width: 10em; max-height: 8em;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCeaNeLAALdFIUDLmwTJB-0nGiNJaBQmcaZrii63JbVpWQgIL1"/>
 <img style="max-width: 10em; max-height: 8em;" src="http://res.cloudinary.com/lacerdaph/image/upload/v1528212612/microsoft-80658_960_720.png"/>
 
-[2018 - JS Testing - Vitali Zaidiman](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
+[FullStack - Vitali Zaidiman](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
 
 <aside class="notes">
 	piada github
