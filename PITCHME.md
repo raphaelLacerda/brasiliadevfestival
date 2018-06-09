@@ -214,4 +214,42 @@ Poderia ser pior
 
 <img width="1000em" height="500em" src="http://res.cloudinary.com/lacerdaph/image/upload/v1528218359/php.jpg">
 
----?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566415/Slide01.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide02.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide03.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide04.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide05.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide06.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide07.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide08.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide09.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide10.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide11.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide12.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide13.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide14.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide15.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide16.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide17.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide18.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide19.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide20.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide21.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide22.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide23.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide24.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide25.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide26.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide27.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide28.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide29.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide30.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide31.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide32.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide33.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide34.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide35.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide36.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide37.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide38.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide39.jpg
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566414/Slide40.jpg
