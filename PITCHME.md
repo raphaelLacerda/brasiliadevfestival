@@ -173,10 +173,7 @@ Por que testar isso?
 ---
 Poderia ser pior
 
-![Image](http://res.cloudinary.com/lacerdaph/image/upload/v1528218359/php.jpg)
----
-
-testes básicos
+<img width="1000em" height="600em" src="http://res.cloudinary.com/lacerdaph/image/upload/v1528218359/php.jpg">
 
 ---
 
