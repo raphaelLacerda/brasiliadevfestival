@@ -158,12 +158,12 @@ Tecnologias
 Por que testar isso?
 
 
-<img width="2500em" height="100em" src="http://res.cloudinary.com/lacerdaph/image/upload/v1528213717/js-callbacks.gif">
+<img width="600px" height="400px" src="http://res.cloudinary.com/lacerdaph/image/upload/v1528213717/js-callbacks.gif">
 
 
 ---
 
-<img width="2500em" height="100em" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKjw7mgz5nJM7kvcG_UUYv_HKu6Qo23QWc0YGO3CoiLcXgqa_e">
+<img width="600px" height="400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKjw7mgz5nJM7kvcG_UUYv_HKu6Qo23QWc0YGO3CoiLcXgqa_e">
 
 ---
 
