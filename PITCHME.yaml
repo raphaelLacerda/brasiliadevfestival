@@ -1,3 +1,4 @@
+theme-override : assets/css/PITCHME.css
 theme : black
 logo : http://res.cloudinary.com/lacerdaph/image/upload/v1528204049/logo.png
 mousewheel : false
