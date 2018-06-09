@@ -214,6 +214,4 @@ Poderia ser pior
 
 <img width="1000em" height="500em" src="http://res.cloudinary.com/lacerdaph/image/upload/v1528218359/php.jpg">
 
----
-
-LAGE, colocar seus slides a partir daqui
+---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528566415/Slide01.jpg
