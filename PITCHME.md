@@ -95,7 +95,8 @@ Conheço vários...
 	É a única métrica que realmente importa
 </aside>
 ---?image=http://res.cloudinary.com/lacerdaph/image/upload/v1528213208/1.png
-TDD is old news (90, 96, 2003, 2009)
+
+<span style="position:fixed; right: -400px">TDD is old news (90, 96, 2003, 2009)</span>
 
 <aside class="notes">
 	TDD é velho e ninguém aguenta falar mais nisso
