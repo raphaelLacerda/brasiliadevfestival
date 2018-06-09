@@ -20,6 +20,7 @@
 	piada FULLSTACK developer
 	imagina medico (dirige ambulancia, opera perna quebrada)
 	pedreiro full stack
+	dentista é meio fullstack e todo mundo odeia UM!
 </aside>
 
 ---
@@ -80,12 +81,25 @@ Conheço vários...
 # TESTES
 ### just do it!
 
+<aside class="notes">
+	Minha divisão é clara: faz teste? Bom
+	Não faz? Ruim
+
+	mas calma.. não fique ofendidinho
+</aside>
+
 ---?image=https://i.kinja-img.com/gawker-media/image/upload/s--p_hev1cO--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/etoegdvqkgljihv2tbuq.png
 @title[WTF per minutes]
 
-
+<aside class="notes">
+	É a única métrica que realmente importa
+</aside>
 ---?image=http://res.cloudinary.com/lacerdaph/image/upload/v1528213208/1.png
 TDD is old news (90, 96, 2003, 2009)
+
+<aside class="notes">
+	TDD é velho e ninguém aguenta falar mais nisso
+</aside>
 
 ---?image=http://res.cloudinary.com/lacerdaph/image/upload/v1528418949/voc-tem-um-xerife-olhando-seu-cdigo-2-638.jpg
 
@@ -97,8 +111,14 @@ TDD is old news (90, 96, 2003, 2009)
 
 ---?image=http://res.cloudinary.com/lacerdaph/image/upload/v1528519944/hipsters-logo.png
 
+<aside class="notes">
+	Como comecei a mudar meus conceitos...
+</aside>
+
 ---
 ![Image](https://camo.githubusercontent.com/0b6fa6fded52f8eaf752f4ec0edb413f61ae9e46/687474703a2f2f7777772e667265656c6f676f766563746f72732e6e65742f77702d636f6e74656e742f75706c6f6164732f323031332f30362f737461636b6f766572666c6f775f6c6f676f2e6a7067)
+
+* [Roberta Arcoverde](https://hipsters.tech/tecnologias-na-stackoverflow-hipsters-46/)
 
 ---?image=http://res.cloudinary.com/lacerdaph/image/upload/v1528218873/twitter.jpg
 
