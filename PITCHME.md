@@ -81,11 +81,13 @@ TDD is old news (90, 96, 2003, 2009)
 
 <aside class="notes">
 	falar dos mutantes
-	testes de integraca
+	testes de integracao que ele anda fazendo
+	LINT
 </aside>
 
----
+---?image=http://res.cloudinary.com/lacerdaph/image/upload/v1528519944/hipsters-logo.png
 
+---
 ![Image](https://camo.githubusercontent.com/0b6fa6fded52f8eaf752f4ec0edb413f61ae9e46/687474703a2f2f7777772e667265656c6f676f766563746f72732e6e65742f77702d636f6e74656e742f75706c6f6164732f323031332f30362f737461636b6f766572666c6f775f6c6f676f2e6a7067)
 
 ---?image=http://res.cloudinary.com/lacerdaph/image/upload/v1528218873/twitter.jpg
