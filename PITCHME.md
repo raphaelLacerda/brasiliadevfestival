@@ -22,6 +22,7 @@
 ### whoarewe
 <aside class="notes">
 	cada um se apresenta
+	link chamado lage - qcon - mudando pegada apresentação
 </aside>
 
 ---?image=https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/victory.jpg
@@ -52,6 +53,8 @@ Conheço alguns...
 
 <aside class="notes">
 	O cara que senta e coda
+	Somos o país da gambiarra
+	cheque especial, quebra mola, reaproveitamento de haviana, sinal de wifi, mesa de sinuca, gatonet, HNT
 </aside>
 ---?image=https://media.wired.com/photos/5927091dcefba457b079bec4/master/pass/Screen-Shot-2016-04-25-at-12.15.43-PM.png
 @title[Mediocre - future boss]
@@ -59,6 +62,7 @@ Conheço vários...
 <aside class="notes">
 	Programador TODO
 	esse codigo ficará aí para TODO e sempre
+	ops.. eu tbm faço isso então deixa quieto
 </aside>
 
 
@@ -153,13 +157,13 @@ Tecnologias
 ---
 Por que testar isso?
 
-![Image](http://res.cloudinary.com/lacerdaph/image/upload/v1528213717/js-callbacks.gif)
+
+<img width="2500em" height="100em" src="http://res.cloudinary.com/lacerdaph/image/upload/v1528213717/js-callbacks.gif">
+
 
 ---
 
-![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKjw7mgz5nJM7kvcG_UUYv_HKu6Qo23QWc0YGO3CoiLcXgqa_e)
-
-![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwchoqjcvty9P_YuYnQxgWdJ1aJp_ce5TeOopVQz6AzdqSJhnI)
+<img width="2500em" height="100em" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKjw7mgz5nJM7kvcG_UUYv_HKu6Qo23QWc0YGO3CoiLcXgqa_e">
 
 ---
 
@@ -173,7 +177,7 @@ Por que testar isso?
 ---
 Poderia ser pior
 
-<img width="1000em" height="600em" src="http://res.cloudinary.com/lacerdaph/image/upload/v1528218359/php.jpg">
+<img width="1000em" height="500em" src="http://res.cloudinary.com/lacerdaph/image/upload/v1528218359/php.jpg">
 
 ---
 
