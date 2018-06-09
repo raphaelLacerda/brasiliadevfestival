@@ -25,7 +25,7 @@
 
 ---
 @title[Who are we?]
-### <strike>whoami?</strike>
+### <s>whoami?</s>
 ### whoarewe
 <aside class="notes">
 	cada um se apresenta
