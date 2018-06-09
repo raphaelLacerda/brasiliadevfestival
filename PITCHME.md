@@ -121,6 +121,10 @@ Conheço vários...
 
 * [Roberta Arcoverde](https://hipsters.tech/tecnologias-na-stackoverflow-hipsters-46/)
 
+<aside class="notes">
+	vc não pode simular a capacidade de um usuário ser idiota
+</aside>
+
 ---?image=http://res.cloudinary.com/lacerdaph/image/upload/v1528218873/twitter.jpg
 
 > "...Quebre sua aplicação ou alguém quebrará por você..."
@@ -129,11 +133,11 @@ Conheço vários...
 
 * Usuários de testes
 * métricas
-* 8 > 16 > 30 tweets/s
+* 8 > 16 > 30K tweets/s
 
 <aside class="notes">
-	agradecer João gato
-	piada com o fim do tempo
+	crescimento dos tweets
+	testes nao influenciam métricas reais
 </aside>
 ---
 ## Monitoração
@@ -178,6 +182,10 @@ Tecnologias
 
 <p><span style="color:red; ">real time</span> Vector</p>
 </div>
+
+<aside class="notes">
+	Martin Spier, gato e formal
+</aside>
 
 ---?image=https://i.ytimg.com/vi/sVr7eLnAIqI/maxresdefault.jpg
 
