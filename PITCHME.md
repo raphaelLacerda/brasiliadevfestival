@@ -155,7 +155,7 @@ Tecnologias
 ---?image=https://i.ytimg.com/vi/sVr7eLnAIqI/maxresdefault.jpg
 
 ---
-Por que testar isso?
+Por que e como testar isso?
 
 
 <img width="600px" height="400px" src="http://res.cloudinary.com/lacerdaph/image/upload/v1528213717/js-callbacks.gif">
@@ -181,4 +181,4 @@ Poderia ser pior
 
 ---
 
-vida real com lage
+LAGE, colocar seus slides a partir daqui
