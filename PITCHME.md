@@ -258,3 +258,37 @@ Poderia ser pior
 ---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528578118/bsbdevfestival3/Slide43.jpg
 ---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528578118/bsbdevfestival3/Slide44.jpg
 ---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528578118/bsbdevfestival3/Slide45.jpg
+```js
+const puppeteer = require('puppeteer');
+
+(async () => {
+    const browser = await puppeteer.launch();
+    const page = await browser.newPage();
+    await page.goto('https://example.com');
+    await page.screenshot({
+        path: 'print-puppeteer.png'
+    });
+
+    await browser.close();
+})();
+```
+---
+```js
+const { Builder } = require('selenium-webdriver');
+const fs = require('fs');
+require('chromedriver');
+
+(async function example() {
+    let driver = await new Builder().forBrowser('chrome').build();
+    try {
+        await driver.get('https://example.com');
+        const data = await driver.takeScreenshot();
+        const base64Data = data.replace(/^data:image\/png;base64,/, '');
+        fs.writeFile('print-selenium.png', base64Data, 'base64',
+            err => console.log(err)
+        );
+    } finally {
+        await driver.quit();
+    }
+})();
+```
