@@ -258,6 +258,7 @@ Poderia ser pior
 ---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528578118/bsbdevfestival3/Slide43.jpg
 ---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528578118/bsbdevfestival3/Slide44.jpg
 ---?image=https://res.cloudinary.com/drwm54vmo/image/upload/v1528578118/bsbdevfestival3/Slide45.jpg
+---
 ```js
 const puppeteer = require('puppeteer');
 
